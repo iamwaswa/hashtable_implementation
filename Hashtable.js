@@ -1,6 +1,5 @@
 const Node = require(`./Node`);
-
-class HashTable{
+class HashTable {
 
     constructor(size = 10){
 
