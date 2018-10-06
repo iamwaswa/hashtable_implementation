@@ -96,4 +96,4 @@ class HashTable {
     }
 }
 
-module.exports = HashTable;
+module.exports = {HashTable, Node};
